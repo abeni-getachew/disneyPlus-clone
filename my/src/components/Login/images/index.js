@@ -1,0 +1,12 @@
+export {default as img1 } from "./Soul.png";
+export {default as img2} from "./Mickey.jpg";
+export {default as img3 } from "./LUCA-2.png";
+export {default as img4 } from "./foky.jpg";
+export {default as img5 } from "./moana.png";
+export {default as img6 } from "./slide7.jpg";
+export {default as img7 } from "./BlackPanther.jpg";
+export {default as img8 } from "./MLP.jpg";
+export {default as ab } from "./XBOX (1).png";
+export {default as ab1 } from "./TV (1).png";
+export {default as ab2 } from "./mobile.png";
+export {default as ab3 } from "./Laptop.png";
